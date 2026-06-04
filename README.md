@@ -150,7 +150,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Bhimireddy Vaishnavi Reddy**
 - Email: bhimireddyvaishnavireddy@gmail.com
-- Phone: +91 86393 39533
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - GitHub: [Your GitHub](https://github.com/your-github-profile)
 
