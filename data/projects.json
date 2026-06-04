@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "title": "Solar Connect",
+      "description": "Platform promoting solar energy adoption through reliable information and service provider connections.",
+      "status": "In Progress"
+    },
+    {
+      "title": "Community-Centric Job Search and Recruitment System",
+      "description": "A platform connecting job seekers and employers within communities.",
+      "status": "Completed"
+    },
+    {
+      "title": "Crop Suggestion System",
+      "description": "Predictive application recommending crops based on soil and environmental conditions.",
+      "role": "Frontend Developer",
+      "status": "Completed"
+    }
+  ]
+}

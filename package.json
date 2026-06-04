@@ -1,0 +1,19 @@
+{
+  "name": "bhimireddy-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website of Bhimireddy Vaishnavi Reddy",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "echo 'Build step - portfolio is ready for deployment'",
+    "deploy": "echo 'Push to GitHub to deploy on GitHub Pages'"
+  },
+  "keywords": [
+    "portfolio",
+    "web-development",
+    "ai",
+    "machine-learning"
+  ],
+  "author": "Bhimireddy Vaishnavi Reddy",
+  "license": "MIT"
+}
