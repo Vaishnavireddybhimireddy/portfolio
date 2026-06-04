@@ -1,0 +1,23 @@
+{
+  "name": "bhimireddy-portfolio",
+  "version": "1.0.0",
+  "description": "A personal portfolio website for Bhimireddy Vaishnavi Reddy, showcasing projects, skills, and achievements.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process can be defined here.'"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "bhimireddy",
+    "vaishnavi",
+    "computer science"
+  ],
+  "author": "Bhimireddy Vaishnavi Reddy",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
