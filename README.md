@@ -132,7 +132,6 @@ Update the following links in the Contact section of `index.html`:
 - GitHub profile
 - CodeChef profile
 - Email
-- Phone
 
 ## 📱 Browser Support
 
@@ -149,7 +148,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Bhimireddy Vaishnavi Reddy**
-- Email: bhimireddyvaishnavireddy@gmail.com
+- Email: vaishnavibhimireddy15@gmail.com
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - GitHub: [Your GitHub](https://github.com/your-github-profile)
 
